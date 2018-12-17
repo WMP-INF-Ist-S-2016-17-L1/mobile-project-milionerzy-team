@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="twoj_wynik">Twój wynik</string>
+
+    <string name="menu_nowa_gra">"Nowa gra "</string>
+    <string name="menu_ranking">"Ranking  "</string>
+    <string name="gra_pytanie">"Pytanie: "</string>
+    <string name="gra_grasz_o">"Grasz o: "</string>
+    <string-array name="tablica_kwot">
+        <item>500</item>
+        <item>1000</item>
+        <item>2000</item>
+        <item>5000</item>
+        <item>10000</item>
+        <item>20000</item>
+        <item>40000</item>
+        <item>75000</item>
+        <item>125000</item>
+        <item>250000</item>
+        <item>500000</item>
+        <item>1000000</item>
+    </string-array>
+
+    <string name="title_activity_scores">ScoresActivity</string>
+    <string name="title_activity_play">PlayActivity</string>
+    <string name="NoHelp">Wykorzystałeś wszystkie koła ratunkowe</string>
+    <string name="backAndContinue">Kontynuuj</string>
+    <string name="backAndNotSave">Wyjdź</string>
+    <string name="score">score</string>
+</resources>
